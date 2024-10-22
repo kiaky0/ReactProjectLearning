@@ -2,7 +2,7 @@
 
 This is a series of React Project for Learning purpose
 
-1. [Expense Tracker](https://github.com/kiaky0/ReactProjectLearning/tree/main/Expense_Tracker)   [Tutorial Video](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### 1. Expense Tracker
 
 <p align="left">
 <img src="https://github.com/user-attachments/assets/bd57f8d9-9fc1-47cb-90be-3be517087b81" alt="Expense Tracker" width="300px" align="left" />
