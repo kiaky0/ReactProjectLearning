@@ -1,0 +1,22 @@
+import './Destination.css'
+import { destinations } from '../../data'
+
+function Destinations(){
+    return(
+        <div className='destinations-container'>
+            <h1 className='destination-header'>Besti Destinations</h1>
+            <div className='destinations'>
+                {destinations.map((destination) => (
+                    <div key={destination.id} className='destinations-item'>
+                        <img src={destination.image} alt='' className='destinations-img' />
+                        <div className='destinations-title'>
+                            <h1>{destination.title}</h1>
+                        </div>
+                    </div>
+                ))}
+            </div>
+        </div>
+    );
+}
+
+export default Destinations;
