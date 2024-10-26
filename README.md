@@ -11,7 +11,7 @@ This is a series of React Project for Learning purpose
 <br/> This is expense tracker to tracker the spending. From <a href="https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb">turorial video</a>
  </p>
 
- <hr>
+<hr>
 
 ### 2. Hotel Booking
 
