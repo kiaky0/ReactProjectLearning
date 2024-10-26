@@ -20,7 +20,7 @@ This is a series of React Project for Learning purpose
   <img src="https://github.com/kiaky0/ReactProjectLearning/blob/main/Hotel%20Booking/HotelBooking.png" alt="Expense Tracker" width="300px" align="left" />
  </a>
 <a href="https://github.com/kiaky0/ReactProjectLearning/tree/main/Hotel%20Booking" title=""><strong>Hotel Booking</strong></a>
-<div><strong>Created: Sept 2024</strong> | <strong>Build By:</strong> React</strong></div> 
+<div><strong>Created: Oct 2024</strong> | <strong>Build By:</strong> React</strong></div> 
 <br/> This is Hotel Booking website. From <a href="https://www.youtube.com/watch?v=g-yzb_jUEUc&list=PLjKQAgADL-q5TgMYNp1SOGKiY6M78PjE0&index=2">turorial video</a>
  </p> <br/>
 
