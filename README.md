@@ -9,7 +9,7 @@ This is a series of React Project for Learning purpose
 <a href="https://github.com/kiaky0/ReactProjectLearning/tree/main/Expense_Tracker" title=""><strong>Expense Tracker</strong></a>
 <div><strong>Created: Sept 2024</strong> | <strong>Build By:</strong> React</strong></div> 
 <br/> This is expense tracker to tracker the spending. From <a href="https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb">turorial video</a>
-</p><br>
+</p><br><br>
 
 <hr>
 
