@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+    font-weight: bolder;
+    background-color: lightsalmon;
+    font-size: 4em;
+    height: 80px;
+    padding: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
