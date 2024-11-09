@@ -10,6 +10,7 @@ This is a series of React Project for Learning purpose
 <div><strong>Created: Nov 2024</strong> | <strong>Build By:</strong> React</strong></div> 
 This is Todo List website. The key features are able to type in the todo list and calculate the total todo list. When the task is comleted, user able to mark down the completed task and the number of task completed will be calculated. This project is learning from <a href="https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">turorial video</a>
 <br/>
+<hr/>
 
 ### 2. Expense Tracker
 
