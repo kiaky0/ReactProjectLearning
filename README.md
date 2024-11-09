@@ -6,7 +6,7 @@ This is a series of React Project for Learning purpose
 ### 1. Todo List
 
 <div align="center"><img src="https://github.com/kiaky0/ReactProjectLearning/blob/main/resources/todolistDemo.gif" width="600px"> </div>
-<a href="https://github.com/kiaky0/ReactProjectLearning/tree/main/Hotel%20Booking" title=""><strong>Todo List</strong></a>
+<a align="center" href="https://github.com/kiaky0/ReactProjectLearning/tree/main/TodoList_App" title=""><strong>Todo List</strong></a>
 <div><strong>Created: Nov 2024</strong> | <strong>Build By:</strong> React</strong></div> 
 This is Todo List website. The key features are able to type in the todo list and calculate the total todo list. When the task is comleted, user able to mark down the completed task and the number of task completed will be calculated. This project is learning from <a href="https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">turorial video</a>
 <br/>
